@@ -69,7 +69,6 @@ let handleWeatherResponse = function(response) {
         $(".forecast").fadeIn(3000)
     }
 
-
   // *** your code ends here -- really.
 };
 
